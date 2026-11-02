@@ -1,0 +1,18 @@
+{
+  "name": "claude-code-mods",
+  "description": "Mods pour Claude Code en terminal : fil (panneau de l'essentiel de la conversation) et maths (LaTeX des réponses dessiné en Unicode).",
+  "owner": {
+    "name": "Alexis",
+    "url": "https://github.com/Alexry375"
+  },
+  "plugins": [
+    {
+      "name": "fil",
+      "source": "./fil"
+    },
+    {
+      "name": "maths",
+      "source": "./maths"
+    }
+  ]
+}

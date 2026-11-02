@@ -1,0 +1,7 @@
+{
+  "name": "fil",
+  "version": "0.4.7",
+  "description": "Panneau « fil » (/fil) (tes messages, les blocs ESSENTIEL, les images) et outil « montrer » pour que l'agent affiche un PNG",
+  "author": { "name": "Alexis" },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "maths",
+  "version": "0.1.0",
+  "description": "Formules LaTeX des réponses dessinées en Unicode dans le terminal : xᵢ, λ₁, Σᵢ₌₁ⁿ en ligne, fractions et sommes en 2D pour les blocs $$…$$",
+  "author": { "name": "Alexis" }
+}

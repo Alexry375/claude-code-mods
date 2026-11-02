@@ -1,0 +1,7 @@
+# Écrits par Claude Code au chargement d'un mod
+.claude-plugin/types/
+*/.claude-plugin/types/
+__pycache__/
+.pytest_cache/
+*.log
+.DS_Store
